@@ -1,0 +1,10 @@
+File structure
+
+css/
+| - style.css
+less/
+| - style.less
+| - [other *.less files]
+sass/
+| - style.scss
+| - [other *.scss files]
